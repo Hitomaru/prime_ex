@@ -1,4 +1,4 @@
-# PrimeEx
+# Prime
 
 **TODO: Add description**
 

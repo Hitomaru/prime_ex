@@ -1,4 +1,4 @@
-defmodule PrimeEx.MixProject do
+defmodule Prime.MixProject do
   use Mix.Project
 
   def project do
